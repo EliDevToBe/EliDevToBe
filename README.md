@@ -2,7 +2,8 @@
 
 I'm a junior web & software developer currently looking for an apprenticeship.
 
-Curious by nature, I like to try things and test ideas, enthousiast about my formation currently ongoing.
+Curious by nature, I like to try things and test ideas !
+Enthousiast about my formation currently ongoing at Ada Tech School, a 2-year program to become a full stack developer. Ada Tech School follows an alternative pedagogy emphasizing inclusivity and learning through hands-on experience, allowing me to sharpen my expertise in back-end technologies while also cultivating my front-end skills.
 
 - 🔭 I’m currently working on a web app with a mobile porting in mind
 - 🌱 I’m currently learning NextJS & TypeScript
