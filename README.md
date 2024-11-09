@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-I'm a junior web & software developer currently looking for an apprenticeship.
+I'm a junior fullstack developer currently working at asap.work 💻
 
 Curious by nature, I like to try things and test ideas !
 Enthousiast about my formation currently ongoing at Ada Tech School, a 2-year program to become a full stack developer. Ada Tech School follows an alternative pedagogy emphasizing inclusivity and learning through hands-on experience, allowing me to sharpen my expertise in back-end technologies while also cultivating my front-end skills.
 
-- 🔭 I’m currently working on a web app with a mobile porting in mind
-- 🌱 I’m currently learning NextJS & TypeScript
+- 🔭 I’m currently brainstorming a mobile app with a business project in mind
+- 🌱 I’m currently learning NuxtJS
 - ⚡ Fun fact: I'm also an archer 🏹
 
 ### Been in touch with:
